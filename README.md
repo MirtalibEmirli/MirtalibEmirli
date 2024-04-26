@@ -3,5 +3,5 @@
 -  I’m currently learning .NEt development
 - 🤿I’m looking to collaborate on ...
 - 📫 How to reach me => mirtalibemirli498@gmail.com
--  Pronouns: Student 
+-  Pronouns: He/him
 - ⚡ Fun fact: ... I am also energy person , I love take a good day with my friends and classmates 
