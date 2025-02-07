@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Mirtalib Emirli 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mirtalib-emirli-a66922287">
+  <a target="_blank" href="https://www.linkedin.com/in/mirtalib-emirli-a66922287">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/MirtalibEmirli">
+  <a target="_blank" href="https://github.com/MirtalibEmirli">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
